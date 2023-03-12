@@ -1,0 +1,27 @@
+{
+  "name": "random-msg-str",
+  "version": "1.0.0",
+  "description": "random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:brayanrodallega/random-msg-str.git"
+  },
+  "keywords": [],
+  "author": "Brayan Rodallega <thebrayan1a1@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:brayanrodallega/random-msg-str.git/issues"
+  },
+  "homepage": "git@github.com:brayanrodallega/random-msg-str.git#readme",
+  "bin": {
+    "random-msg-str": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
